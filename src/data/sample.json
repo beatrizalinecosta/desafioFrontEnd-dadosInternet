@@ -1,0 +1,4002 @@
+[
+  {
+    "ID": "27183567",
+    "Download": 246.89,
+    "Upload": 4.72,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "11723278",
+    "Download": 247.93,
+    "Upload": 88.26,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Cable Modem"
+  },
+  {
+    "ID": "12716970",
+    "Download": 11.07,
+    "Upload": 72.51,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "86668517",
+    "Download": 322.53,
+    "Upload": 77.21,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Radio"
+  },
+  {
+    "ID": "83063822",
+    "Download": 258.72,
+    "Upload": 86.5,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "91591321",
+    "Download": 163.57,
+    "Upload": 50.57,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "39446107",
+    "Download": 292.81,
+    "Upload": 92.66,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Cable Modem"
+  },
+  {
+    "ID": "66253915",
+    "Download": 310.59,
+    "Upload": 21.6,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Radio"
+  },
+  {
+    "ID": "62435676",
+    "Download": 221.95,
+    "Upload": 3.68,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Cable Modem"
+  },
+  {
+    "ID": "66649737",
+    "Download": 89.33,
+    "Upload": 32.26,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "55023642",
+    "Download": 358.96,
+    "Upload": 66.35,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Radio"
+  },
+  {
+    "ID": "33957290",
+    "Download": 375.15,
+    "Upload": 32.15,
+    "Dependencia_Adm": "Federal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Radio"
+  },
+  {
+    "ID": "13814692",
+    "Download": 422.74,
+    "Upload": 94.5,
+    "Dependencia_Adm": "Federal",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Satelite"
+  },
+  {
+    "ID": "36321127",
+    "Download": 269.71,
+    "Upload": 78.12,
+    "Dependencia_Adm": "Federal",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Radio"
+  },
+  {
+    "ID": "24394572",
+    "Download": 154.61,
+    "Upload": 34.6,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "76442144",
+    "Download": 230.98,
+    "Upload": 48.68,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Satelite"
+  },
+  {
+    "ID": "32071277",
+    "Download": 195.25,
+    "Upload": 42.18,
+    "Dependencia_Adm": "Federal",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Cable Modem"
+  },
+  {
+    "ID": "61372234",
+    "Download": 128.28,
+    "Upload": 77.86,
+    "Dependencia_Adm": "Federal",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "68606875",
+    "Download": 329.04,
+    "Upload": 49.06,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "62615861",
+    "Download": 477.89,
+    "Upload": 2.51,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Cable Modem"
+  },
+  {
+    "ID": "75898677",
+    "Download": 149.09,
+    "Upload": 64.6,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "10862809",
+    "Download": 326.84,
+    "Upload": 24.25,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Cable Modem"
+  },
+  {
+    "ID": "86073309",
+    "Download": 270.5,
+    "Upload": 74.96,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Cable Modem"
+  },
+  {
+    "ID": "38017096",
+    "Download": 300.74,
+    "Upload": 30.27,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "38487615",
+    "Download": 17.32,
+    "Upload": 90.72,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Satelite"
+  },
+  {
+    "ID": "09204434",
+    "Download": 7.4,
+    "Upload": 85.48,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "56258713",
+    "Download": 70.03,
+    "Upload": 46.73,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Cable Modem"
+  },
+  {
+    "ID": "19243285",
+    "Download": 17.28,
+    "Upload": 8.06,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "97386537",
+    "Download": 50.6,
+    "Upload": 58.2,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "28194906",
+    "Download": 240.4,
+    "Upload": 58.38,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Radio"
+  },
+  {
+    "ID": "20683999",
+    "Download": 102.35,
+    "Upload": 99.36,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "34544756",
+    "Download": 408.26,
+    "Upload": 34.19,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Radio"
+  },
+  {
+    "ID": "48941512",
+    "Download": 125.81,
+    "Upload": 67.01,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Satelite"
+  },
+  {
+    "ID": "39153494",
+    "Download": 246.96,
+    "Upload": 93.92,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Radio"
+  },
+  {
+    "ID": "69657759",
+    "Download": 326.2,
+    "Upload": 57.91,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Radio"
+  },
+  {
+    "ID": "49229009",
+    "Download": 83.56,
+    "Upload": 69.48,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "24487730",
+    "Download": 419.3,
+    "Upload": 9.89,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Cable Modem"
+  },
+  {
+    "ID": "33763341",
+    "Download": 221.12,
+    "Upload": 86.78,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Cable Modem"
+  },
+  {
+    "ID": "04462582",
+    "Download": 120.58,
+    "Upload": 50.61,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "26760500",
+    "Download": 152.93,
+    "Upload": 23.1,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "85324889",
+    "Download": 83.91,
+    "Upload": 41.83,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Cable Modem"
+  },
+  {
+    "ID": "60810222",
+    "Download": 294.86,
+    "Upload": 88.74,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "35167191",
+    "Download": 78.65,
+    "Upload": 50.06,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "19015080",
+    "Download": 93.63,
+    "Upload": 67.6,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Radio"
+  },
+  {
+    "ID": "07873646",
+    "Download": 172.91,
+    "Upload": 28.97,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Cable Modem"
+  },
+  {
+    "ID": "77460544",
+    "Download": 96.03,
+    "Upload": 81.89,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Radio"
+  },
+  {
+    "ID": "98723726",
+    "Download": 205.74,
+    "Upload": 25.36,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "98324960",
+    "Download": 308.71,
+    "Upload": 37.59,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Satelite"
+  },
+  {
+    "ID": "72659109",
+    "Download": 344.41,
+    "Upload": 24.32,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "71941298",
+    "Download": 412.65,
+    "Upload": 93.64,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Satelite"
+  },
+  {
+    "ID": "90810604",
+    "Download": 190.12,
+    "Upload": 42.09,
+    "Dependencia_Adm": "Federal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "39962954",
+    "Download": 476.66,
+    "Upload": 14.61,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Cable Modem"
+  },
+  {
+    "ID": "47542399",
+    "Download": 14.32,
+    "Upload": 91.52,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Radio"
+  },
+  {
+    "ID": "44904209",
+    "Download": 308.13,
+    "Upload": 35.42,
+    "Dependencia_Adm": "Federal",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Radio"
+  },
+  {
+    "ID": "87364515",
+    "Download": 234.47,
+    "Upload": 85.44,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Cable Modem"
+  },
+  {
+    "ID": "15892318",
+    "Download": 180.59,
+    "Upload": 15.12,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "55459608",
+    "Download": 441.8,
+    "Upload": 36.58,
+    "Dependencia_Adm": "Federal",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "74474455",
+    "Download": 42.52,
+    "Upload": 25.31,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "40515463",
+    "Download": 442.23,
+    "Upload": 5.54,
+    "Dependencia_Adm": "Federal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "31209423",
+    "Download": 98.17,
+    "Upload": 78.67,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "09853594",
+    "Download": 111.46,
+    "Upload": 20.72,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Satelite"
+  },
+  {
+    "ID": "50235552",
+    "Download": 435.42,
+    "Upload": 39.79,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "92682395",
+    "Download": 35.11,
+    "Upload": 33.03,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "27870213",
+    "Download": 121.28,
+    "Upload": 60.61,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Radio"
+  },
+  {
+    "ID": "21311248",
+    "Download": 496.54,
+    "Upload": 54.59,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Radio"
+  },
+  {
+    "ID": "85442336",
+    "Download": 340.71,
+    "Upload": 99.09,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "51682871",
+    "Download": 220.57,
+    "Upload": 26.13,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "89277401",
+    "Download": 191.77,
+    "Upload": 73.79,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "02521910",
+    "Download": 233.29,
+    "Upload": 97.78,
+    "Dependencia_Adm": "Federal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "64589961",
+    "Download": 401.92,
+    "Upload": 56.25,
+    "Dependencia_Adm": "Federal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Satelite"
+  },
+  {
+    "ID": "29812450",
+    "Download": 333.17,
+    "Upload": 39.88,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Radio"
+  },
+  {
+    "ID": "72523448",
+    "Download": 235.67,
+    "Upload": 82.64,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Radio"
+  },
+  {
+    "ID": "02533572",
+    "Download": 31.36,
+    "Upload": 12.13,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Radio"
+  },
+  {
+    "ID": "85849694",
+    "Download": 122.41,
+    "Upload": 54.04,
+    "Dependencia_Adm": "Federal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Radio"
+  },
+  {
+    "ID": "32736217",
+    "Download": 120.45,
+    "Upload": 44.94,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "87378379",
+    "Download": 119.17,
+    "Upload": 28.12,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "61811732",
+    "Download": 35.55,
+    "Upload": 16.58,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "57098435",
+    "Download": 251.07,
+    "Upload": 87.31,
+    "Dependencia_Adm": "Federal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "70497132",
+    "Download": 125.84,
+    "Upload": 56.64,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "34957489",
+    "Download": 380.3,
+    "Upload": 55.52,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "36301627",
+    "Download": 275.91,
+    "Upload": 59.64,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Satelite"
+  },
+  {
+    "ID": "05502475",
+    "Download": 474.29,
+    "Upload": 73.05,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "41463735",
+    "Download": 47.66,
+    "Upload": 64.25,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Satelite"
+  },
+  {
+    "ID": "92759342",
+    "Download": 474.2,
+    "Upload": 61.83,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "39096173",
+    "Download": 362.59,
+    "Upload": 6.19,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "46262891",
+    "Download": 461.39,
+    "Upload": 56.95,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Radio"
+  },
+  {
+    "ID": "46468857",
+    "Download": 308.85,
+    "Upload": 59.15,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "46622124",
+    "Download": 84.68,
+    "Upload": 63.23,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Cable Modem"
+  },
+  {
+    "ID": "44029178",
+    "Download": 95.56,
+    "Upload": 62.57,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Satelite"
+  },
+  {
+    "ID": "66890126",
+    "Download": 366.44,
+    "Upload": 9.14,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Radio"
+  },
+  {
+    "ID": "66363920",
+    "Download": 296.82,
+    "Upload": 8.69,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Cable Modem"
+  },
+  {
+    "ID": "30947528",
+    "Download": 159.68,
+    "Upload": 69.02,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "50751367",
+    "Download": 387.53,
+    "Upload": 83.2,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Cable Modem"
+  },
+  {
+    "ID": "12181053",
+    "Download": 171.47,
+    "Upload": 15.45,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "83616202",
+    "Download": 428.56,
+    "Upload": 78.57,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "77067071",
+    "Download": 292.36,
+    "Upload": 49.16,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Radio"
+  },
+  {
+    "ID": "70620055",
+    "Download": 210.78,
+    "Upload": 98.94,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Satelite"
+  },
+  {
+    "ID": "86016185",
+    "Download": 466.62,
+    "Upload": 50.41,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Radio"
+  },
+  {
+    "ID": "41036298",
+    "Download": 234.04,
+    "Upload": 56.66,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "87342134",
+    "Download": 54.18,
+    "Upload": 38.45,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "13399915",
+    "Download": 235.4,
+    "Upload": 52.35,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Cable Modem"
+  },
+  {
+    "ID": "51029529",
+    "Download": 492.12,
+    "Upload": 8.35,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Radio"
+  },
+  {
+    "ID": "36905754",
+    "Download": 463.01,
+    "Upload": 54.31,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Radio"
+  },
+  {
+    "ID": "92682649",
+    "Download": 220.52,
+    "Upload": 96.15,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Cable Modem"
+  },
+  {
+    "ID": "10435028",
+    "Download": 435.51,
+    "Upload": 53.25,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "70785481",
+    "Download": 153.68,
+    "Upload": 44.28,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "40427877",
+    "Download": 400,
+    "Upload": 4.19,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "18272526",
+    "Download": 401.25,
+    "Upload": 4.74,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Radio"
+  },
+  {
+    "ID": "57481862",
+    "Download": 196.53,
+    "Upload": 5.69,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "22727809",
+    "Download": 193.89,
+    "Upload": 16.93,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "14221930",
+    "Download": 324.53,
+    "Upload": 47.44,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Satelite"
+  },
+  {
+    "ID": "22051613",
+    "Download": 431.53,
+    "Upload": 80.79,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Satelite"
+  },
+  {
+    "ID": "01638939",
+    "Download": 330.03,
+    "Upload": 28.78,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Radio"
+  },
+  {
+    "ID": "64257543",
+    "Download": 260.58,
+    "Upload": 75.72,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "62617333",
+    "Download": 78.65,
+    "Upload": 52.66,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Radio"
+  },
+  {
+    "ID": "47435142",
+    "Download": 308.32,
+    "Upload": 29.61,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Cable Modem"
+  },
+  {
+    "ID": "99695838",
+    "Download": 25.77,
+    "Upload": 2.72,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Radio"
+  },
+  {
+    "ID": "43965277",
+    "Download": 251.69,
+    "Upload": 67.17,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Radio"
+  },
+  {
+    "ID": "43011008",
+    "Download": 371.06,
+    "Upload": 7.63,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "94680121",
+    "Download": 378.18,
+    "Upload": 83.8,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "43190435",
+    "Download": 36.23,
+    "Upload": 14.4,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "81843589",
+    "Download": 224.03,
+    "Upload": 65.93,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "07634457",
+    "Download": 252.83,
+    "Upload": 83.96,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Radio"
+  },
+  {
+    "ID": "42443831",
+    "Download": 138.77,
+    "Upload": 26.51,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "81328725",
+    "Download": 301.41,
+    "Upload": 14.46,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "36445842",
+    "Download": 369.24,
+    "Upload": 76.59,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "75849415",
+    "Download": 358.22,
+    "Upload": 21.99,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "62677865",
+    "Download": 62.66,
+    "Upload": 27.53,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "45064081",
+    "Download": 289.68,
+    "Upload": 53.65,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "49608621",
+    "Download": 400.08,
+    "Upload": 47.94,
+    "Dependencia_Adm": "Federal",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "64694719",
+    "Download": 119.75,
+    "Upload": 37.97,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "53766975",
+    "Download": 363.8,
+    "Upload": 77.76,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Radio"
+  },
+  {
+    "ID": "46585300",
+    "Download": 419.82,
+    "Upload": 56.26,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Radio"
+  },
+  {
+    "ID": "80818525",
+    "Download": 63.83,
+    "Upload": 16.37,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "93343457",
+    "Download": 479.68,
+    "Upload": 98.95,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Satelite"
+  },
+  {
+    "ID": "84002993",
+    "Download": 375.14,
+    "Upload": 25.2,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Radio"
+  },
+  {
+    "ID": "25232525",
+    "Download": 406.39,
+    "Upload": 13.91,
+    "Dependencia_Adm": "Federal",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "01538993",
+    "Download": 99.01,
+    "Upload": 22.06,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "67000259",
+    "Download": 17.85,
+    "Upload": 38.62,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Radio"
+  },
+  {
+    "ID": "97612930",
+    "Download": 432.57,
+    "Upload": 36.6,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Satelite"
+  },
+  {
+    "ID": "10811071",
+    "Download": 459.99,
+    "Upload": 30.96,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Cable Modem"
+  },
+  {
+    "ID": "96256710",
+    "Download": 73.13,
+    "Upload": 5.4,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "27650556",
+    "Download": 241.44,
+    "Upload": 93.54,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "05191139",
+    "Download": 234.17,
+    "Upload": 57.3,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "35867611",
+    "Download": 351.59,
+    "Upload": 22.86,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "31115555",
+    "Download": 37.46,
+    "Upload": 87.92,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "50085207",
+    "Download": 367.85,
+    "Upload": 47.26,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Cable Modem"
+  },
+  {
+    "ID": "88218079",
+    "Download": 200.99,
+    "Upload": 54.69,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Cable Modem"
+  },
+  {
+    "ID": "74326807",
+    "Download": 233.44,
+    "Upload": 78.66,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "87847719",
+    "Download": 364.02,
+    "Upload": 65.14,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Radio"
+  },
+  {
+    "ID": "81597727",
+    "Download": 237.65,
+    "Upload": 15.34,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "19125474",
+    "Download": 499.76,
+    "Upload": 32.84,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "56316509",
+    "Download": 423.74,
+    "Upload": 95.15,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Radio"
+  },
+  {
+    "ID": "41682731",
+    "Download": 414.96,
+    "Upload": 19.63,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Satelite"
+  },
+  {
+    "ID": "69641453",
+    "Download": 382.01,
+    "Upload": 75.29,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "10769003",
+    "Download": 60.49,
+    "Upload": 46.46,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Radio"
+  },
+  {
+    "ID": "69247059",
+    "Download": 420.29,
+    "Upload": 15,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "93021026",
+    "Download": 407.86,
+    "Upload": 21.31,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "18144465",
+    "Download": 495.75,
+    "Upload": 67.85,
+    "Dependencia_Adm": "Federal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "67014732",
+    "Download": 28.92,
+    "Upload": 14.66,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "73269027",
+    "Download": 374.66,
+    "Upload": 42.14,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Satelite"
+  },
+  {
+    "ID": "69049561",
+    "Download": 212.56,
+    "Upload": 45.67,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Cable Modem"
+  },
+  {
+    "ID": "61963439",
+    "Download": 293.16,
+    "Upload": 62.67,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Cable Modem"
+  },
+  {
+    "ID": "24455491",
+    "Download": 416.21,
+    "Upload": 25.87,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Cable Modem"
+  },
+  {
+    "ID": "07509369",
+    "Download": 11.7,
+    "Upload": 46.95,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "55650912",
+    "Download": 10.7,
+    "Upload": 17.39,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "97564006",
+    "Download": 498.24,
+    "Upload": 85.92,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "44639656",
+    "Download": 384.02,
+    "Upload": 16.5,
+    "Dependencia_Adm": "Federal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Cable Modem"
+  },
+  {
+    "ID": "61451360",
+    "Download": 160.76,
+    "Upload": 9.74,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "93523686",
+    "Download": 406.95,
+    "Upload": 89.45,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Cable Modem"
+  },
+  {
+    "ID": "76800989",
+    "Download": 495.65,
+    "Upload": 30.76,
+    "Dependencia_Adm": "Federal",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Satelite"
+  },
+  {
+    "ID": "25653159",
+    "Download": 104.38,
+    "Upload": 75.46,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Radio"
+  },
+  {
+    "ID": "96355666",
+    "Download": 324.79,
+    "Upload": 40.76,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Radio"
+  },
+  {
+    "ID": "48738547",
+    "Download": 221.59,
+    "Upload": 45.41,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "06934391",
+    "Download": 469.32,
+    "Upload": 16.81,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "00709233",
+    "Download": 494.06,
+    "Upload": 15.31,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "90947970",
+    "Download": 230.88,
+    "Upload": 15.77,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Cable Modem"
+  },
+  {
+    "ID": "26374605",
+    "Download": 119.15,
+    "Upload": 51.93,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "09175071",
+    "Download": 349.27,
+    "Upload": 49.79,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "11644321",
+    "Download": 280.53,
+    "Upload": 62.02,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Radio"
+  },
+  {
+    "ID": "97506716",
+    "Download": 294.43,
+    "Upload": 45.29,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "11538956",
+    "Download": 219.65,
+    "Upload": 6.51,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "95728540",
+    "Download": 215.96,
+    "Upload": 1.53,
+    "Dependencia_Adm": "Federal",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Radio"
+  },
+  {
+    "ID": "13307055",
+    "Download": 300.44,
+    "Upload": 22.96,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Cable Modem"
+  },
+  {
+    "ID": "42294736",
+    "Download": 228.78,
+    "Upload": 85.25,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Satelite"
+  },
+  {
+    "ID": "25105530",
+    "Download": 478.52,
+    "Upload": 27.47,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "93203859",
+    "Download": 422.99,
+    "Upload": 60.26,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Radio"
+  },
+  {
+    "ID": "20611331",
+    "Download": 115.27,
+    "Upload": 61.25,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "32331617",
+    "Download": 212.98,
+    "Upload": 99.22,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Radio"
+  },
+  {
+    "ID": "70214987",
+    "Download": 212.89,
+    "Upload": 19.93,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "73608184",
+    "Download": 15.29,
+    "Upload": 75.59,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "74171693",
+    "Download": 193.32,
+    "Upload": 25,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "00643242",
+    "Download": 214.06,
+    "Upload": 33.42,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Cable Modem"
+  },
+  {
+    "ID": "85417308",
+    "Download": 99.76,
+    "Upload": 1.35,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "80784852",
+    "Download": 354.14,
+    "Upload": 99.74,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "87313803",
+    "Download": 11.69,
+    "Upload": 44.37,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Radio"
+  },
+  {
+    "ID": "07057416",
+    "Download": 366.95,
+    "Upload": 99.77,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "41013509",
+    "Download": 219.2,
+    "Upload": 20.48,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "35437874",
+    "Download": 366.96,
+    "Upload": 12.04,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "21353546",
+    "Download": 11.9,
+    "Upload": 25.82,
+    "Dependencia_Adm": "Federal",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "18433609",
+    "Download": 27.43,
+    "Upload": 68.37,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "84547447",
+    "Download": 212.12,
+    "Upload": 58.15,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Cable Modem"
+  },
+  {
+    "ID": "84231904",
+    "Download": 323.7,
+    "Upload": 42.22,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Satelite"
+  },
+  {
+    "ID": "13366995",
+    "Download": 113.8,
+    "Upload": 73.19,
+    "Dependencia_Adm": "Federal",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Cable Modem"
+  },
+  {
+    "ID": "81451704",
+    "Download": 417.55,
+    "Upload": 57.84,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "90137243",
+    "Download": 348.91,
+    "Upload": 58.19,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Cable Modem"
+  },
+  {
+    "ID": "64828535",
+    "Download": 450.07,
+    "Upload": 59.41,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Radio"
+  },
+  {
+    "ID": "29614936",
+    "Download": 210.05,
+    "Upload": 23.07,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Radio"
+  },
+  {
+    "ID": "40732584",
+    "Download": 208.45,
+    "Upload": 11.25,
+    "Dependencia_Adm": "Federal",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Cable Modem"
+  },
+  {
+    "ID": "42271780",
+    "Download": 128.76,
+    "Upload": 73.91,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "70708714",
+    "Download": 190.01,
+    "Upload": 61.63,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Cable Modem"
+  },
+  {
+    "ID": "82785147",
+    "Download": 119.79,
+    "Upload": 95.17,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "87019508",
+    "Download": 466.14,
+    "Upload": 96.03,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "67756697",
+    "Download": 240.79,
+    "Upload": 74.74,
+    "Dependencia_Adm": "Federal",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "94758899",
+    "Download": 28.59,
+    "Upload": 44.05,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "51950980",
+    "Download": 387.9,
+    "Upload": 18.3,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Satelite"
+  },
+  {
+    "ID": "30278836",
+    "Download": 168.9,
+    "Upload": 44.09,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "18185589",
+    "Download": 278.67,
+    "Upload": 76.48,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Radio"
+  },
+  {
+    "ID": "15781912",
+    "Download": 339.78,
+    "Upload": 91.98,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Satelite"
+  },
+  {
+    "ID": "44457519",
+    "Download": 142.28,
+    "Upload": 90.76,
+    "Dependencia_Adm": "Federal",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Satelite"
+  },
+  {
+    "ID": "02402990",
+    "Download": 31.16,
+    "Upload": 81.74,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Radio"
+  },
+  {
+    "ID": "37066031",
+    "Download": 215.75,
+    "Upload": 20.78,
+    "Dependencia_Adm": "Federal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Cable Modem"
+  },
+  {
+    "ID": "01187528",
+    "Download": 307.01,
+    "Upload": 5.91,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "35935847",
+    "Download": 488.14,
+    "Upload": 48.42,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Cable Modem"
+  },
+  {
+    "ID": "83036208",
+    "Download": 485.05,
+    "Upload": 59.45,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Satelite"
+  },
+  {
+    "ID": "79409086",
+    "Download": 48.8,
+    "Upload": 10.57,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "30364041",
+    "Download": 251.7,
+    "Upload": 95.14,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Cable Modem"
+  },
+  {
+    "ID": "76205355",
+    "Download": 200.87,
+    "Upload": 17.11,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Cable Modem"
+  },
+  {
+    "ID": "91411102",
+    "Download": 198.21,
+    "Upload": 92.23,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "79454154",
+    "Download": 162.66,
+    "Upload": 13.65,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Cable Modem"
+  },
+  {
+    "ID": "20322493",
+    "Download": 342.87,
+    "Upload": 66.61,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "94502457",
+    "Download": 145.88,
+    "Upload": 78.62,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "92129318",
+    "Download": 198.1,
+    "Upload": 76.7,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "72597823",
+    "Download": 495.13,
+    "Upload": 67.58,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "44895054",
+    "Download": 397.04,
+    "Upload": 12.45,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Radio"
+  },
+  {
+    "ID": "46619979",
+    "Download": 159.64,
+    "Upload": 85.28,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "80104947",
+    "Download": 409.47,
+    "Upload": 62.18,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "39245896",
+    "Download": 114.35,
+    "Upload": 83.8,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Radio"
+  },
+  {
+    "ID": "87734986",
+    "Download": 253.03,
+    "Upload": 17.82,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Radio"
+  },
+  {
+    "ID": "44316753",
+    "Download": 87.65,
+    "Upload": 2.02,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Satelite"
+  },
+  {
+    "ID": "70697094",
+    "Download": 64.23,
+    "Upload": 33.02,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "27749108",
+    "Download": 449.32,
+    "Upload": 27.7,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Satelite"
+  },
+  {
+    "ID": "00380032",
+    "Download": 51.39,
+    "Upload": 82.7,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Radio"
+  },
+  {
+    "ID": "57565852",
+    "Download": 433.2,
+    "Upload": 93.43,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Cable Modem"
+  },
+  {
+    "ID": "82746708",
+    "Download": 141.91,
+    "Upload": 13.65,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Cable Modem"
+  },
+  {
+    "ID": "12643013",
+    "Download": 18.51,
+    "Upload": 91.42,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Radio"
+  },
+  {
+    "ID": "30052655",
+    "Download": 394.76,
+    "Upload": 60.92,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Radio"
+  },
+  {
+    "ID": "76798850",
+    "Download": 182.54,
+    "Upload": 40.63,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Satelite"
+  },
+  {
+    "ID": "12390000",
+    "Download": 17.43,
+    "Upload": 66.91,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Cable Modem"
+  },
+  {
+    "ID": "12474814",
+    "Download": 374.32,
+    "Upload": 76.99,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Cable Modem"
+  },
+  {
+    "ID": "07786099",
+    "Download": 19.66,
+    "Upload": 52.67,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "70914865",
+    "Download": 219.76,
+    "Upload": 40.06,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "94710892",
+    "Download": 132.03,
+    "Upload": 96.61,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Radio"
+  },
+  {
+    "ID": "86214005",
+    "Download": 251.52,
+    "Upload": 5.85,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "60921432",
+    "Download": 328.41,
+    "Upload": 16.18,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Cable Modem"
+  },
+  {
+    "ID": "94139066",
+    "Download": 46.41,
+    "Upload": 69.99,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "64403195",
+    "Download": 94.33,
+    "Upload": 73.05,
+    "Dependencia_Adm": "Federal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "80405238",
+    "Download": 56.71,
+    "Upload": 11.73,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Cable Modem"
+  },
+  {
+    "ID": "65047798",
+    "Download": 407.13,
+    "Upload": 46.99,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Satelite"
+  },
+  {
+    "ID": "95890355",
+    "Download": 315.61,
+    "Upload": 64.57,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "45170939",
+    "Download": 317.13,
+    "Upload": 40.31,
+    "Dependencia_Adm": "Federal",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "36676227",
+    "Download": 198.49,
+    "Upload": 99.05,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Cable Modem"
+  },
+  {
+    "ID": "35660766",
+    "Download": 218.97,
+    "Upload": 68.19,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Radio"
+  },
+  {
+    "ID": "10589506",
+    "Download": 177.57,
+    "Upload": 32.22,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "37689512",
+    "Download": 397.81,
+    "Upload": 16.22,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Radio"
+  },
+  {
+    "ID": "96033556",
+    "Download": 444.03,
+    "Upload": 30.82,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Radio"
+  },
+  {
+    "ID": "05063321",
+    "Download": 327.31,
+    "Upload": 10.36,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Radio"
+  },
+  {
+    "ID": "99409095",
+    "Download": 298.47,
+    "Upload": 3.66,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "94871997",
+    "Download": 167.27,
+    "Upload": 31.74,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "65167455",
+    "Download": 42.47,
+    "Upload": 74.5,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Satelite"
+  },
+  {
+    "ID": "24806742",
+    "Download": 297.74,
+    "Upload": 96.05,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Radio"
+  },
+  {
+    "ID": "14465720",
+    "Download": 93.28,
+    "Upload": 42.16,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Satelite"
+  },
+  {
+    "ID": "77619820",
+    "Download": 371.97,
+    "Upload": 52.7,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "29294834",
+    "Download": 150.47,
+    "Upload": 7.68,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Radio"
+  },
+  {
+    "ID": "53327816",
+    "Download": 321.4,
+    "Upload": 63.35,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "60670359",
+    "Download": 66.79,
+    "Upload": 35.99,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Radio"
+  },
+  {
+    "ID": "14982368",
+    "Download": 131.36,
+    "Upload": 43.05,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "51381722",
+    "Download": 411.18,
+    "Upload": 96.41,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "45801465",
+    "Download": 402.87,
+    "Upload": 68.42,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "96005291",
+    "Download": 27.69,
+    "Upload": 72.13,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Cable Modem"
+  },
+  {
+    "ID": "68571354",
+    "Download": 438.39,
+    "Upload": 17.89,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Cable Modem"
+  },
+  {
+    "ID": "98827565",
+    "Download": 68.36,
+    "Upload": 21.16,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Radio"
+  },
+  {
+    "ID": "42401871",
+    "Download": 306.37,
+    "Upload": 87.78,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Satelite"
+  },
+  {
+    "ID": "77830381",
+    "Download": 237.44,
+    "Upload": 83.91,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "37914407",
+    "Download": 280.86,
+    "Upload": 72.34,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Radio"
+  },
+  {
+    "ID": "60821926",
+    "Download": 366.54,
+    "Upload": 28.83,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Radio"
+  },
+  {
+    "ID": "32305882",
+    "Download": 237.58,
+    "Upload": 21.79,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Radio"
+  },
+  {
+    "ID": "13636183",
+    "Download": 494.36,
+    "Upload": 49.92,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "23409705",
+    "Download": 492.41,
+    "Upload": 52.65,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "59194497",
+    "Download": 199.68,
+    "Upload": 22.76,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "55540598",
+    "Download": 306.38,
+    "Upload": 76.55,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Radio"
+  },
+  {
+    "ID": "29435112",
+    "Download": 176.01,
+    "Upload": 3.43,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Radio"
+  },
+  {
+    "ID": "88959372",
+    "Download": 221.37,
+    "Upload": 71.44,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "41865257",
+    "Download": 118.42,
+    "Upload": 84.25,
+    "Dependencia_Adm": "Federal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Cable Modem"
+  },
+  {
+    "ID": "84397753",
+    "Download": 8.01,
+    "Upload": 93.15,
+    "Dependencia_Adm": "Federal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Radio"
+  },
+  {
+    "ID": "13123636",
+    "Download": 16.82,
+    "Upload": 66.55,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Radio"
+  },
+  {
+    "ID": "81815619",
+    "Download": 34.09,
+    "Upload": 27.72,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "44551938",
+    "Download": 383.46,
+    "Upload": 22.61,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "37802441",
+    "Download": 237.18,
+    "Upload": 86.91,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Radio"
+  },
+  {
+    "ID": "66496391",
+    "Download": 426.16,
+    "Upload": 3.43,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Satelite"
+  },
+  {
+    "ID": "68355278",
+    "Download": 292.95,
+    "Upload": 85.15,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "08120912",
+    "Download": 97.51,
+    "Upload": 52.87,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "02915660",
+    "Download": 306.49,
+    "Upload": 44.11,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "85485659",
+    "Download": 447.2,
+    "Upload": 93.2,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "42747860",
+    "Download": 398.19,
+    "Upload": 17.29,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "76104286",
+    "Download": 254.53,
+    "Upload": 38.5,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "08281513",
+    "Download": 214.4,
+    "Upload": 14.67,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "54982649",
+    "Download": 328.92,
+    "Upload": 15.82,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Radio"
+  },
+  {
+    "ID": "84834899",
+    "Download": 444.43,
+    "Upload": 67.97,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Cable Modem"
+  },
+  {
+    "ID": "78033395",
+    "Download": 446.55,
+    "Upload": 56.65,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "83812951",
+    "Download": 93.3,
+    "Upload": 47.69,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Radio"
+  },
+  {
+    "ID": "59056199",
+    "Download": 132.46,
+    "Upload": 81.3,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "05263280",
+    "Download": 61.15,
+    "Upload": 96.28,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Radio"
+  },
+  {
+    "ID": "50855349",
+    "Download": 399.59,
+    "Upload": 52.03,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Radio"
+  },
+  {
+    "ID": "58658229",
+    "Download": 59.22,
+    "Upload": 70.67,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "17679772",
+    "Download": 415.39,
+    "Upload": 18.91,
+    "Dependencia_Adm": "Federal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "44077684",
+    "Download": 386.67,
+    "Upload": 36.14,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Satelite"
+  },
+  {
+    "ID": "70101056",
+    "Download": 472.13,
+    "Upload": 5.94,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "34740453",
+    "Download": 236.14,
+    "Upload": 16.1,
+    "Dependencia_Adm": "Federal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Radio"
+  },
+  {
+    "ID": "81469108",
+    "Download": 470.23,
+    "Upload": 10.83,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Satelite"
+  },
+  {
+    "ID": "81609540",
+    "Download": 393.67,
+    "Upload": 28.73,
+    "Dependencia_Adm": "Federal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "75047243",
+    "Download": 437.93,
+    "Upload": 39.36,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "59030006",
+    "Download": 200.26,
+    "Upload": 63.78,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Radio"
+  },
+  {
+    "ID": "98809619",
+    "Download": 54.35,
+    "Upload": 71,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Cable Modem"
+  },
+  {
+    "ID": "19034017",
+    "Download": 142.1,
+    "Upload": 33.28,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Cable Modem"
+  },
+  {
+    "ID": "48635589",
+    "Download": 362.5,
+    "Upload": 96.55,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "54322071",
+    "Download": 181.37,
+    "Upload": 69.95,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "78121689",
+    "Download": 194.44,
+    "Upload": 16.95,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Cable Modem"
+  },
+  {
+    "ID": "96368632",
+    "Download": 20.82,
+    "Upload": 37.54,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Satelite"
+  },
+  {
+    "ID": "04463936",
+    "Download": 263.12,
+    "Upload": 30.92,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Radio"
+  },
+  {
+    "ID": "33000524",
+    "Download": 64.93,
+    "Upload": 46.34,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "67185526",
+    "Download": 443.17,
+    "Upload": 82.5,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Radio"
+  },
+  {
+    "ID": "51480324",
+    "Download": 41.95,
+    "Upload": 24.02,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Cable Modem"
+  },
+  {
+    "ID": "74034287",
+    "Download": 393.19,
+    "Upload": 40.83,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Radio"
+  },
+  {
+    "ID": "56013174",
+    "Download": 427.8,
+    "Upload": 97.19,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Radio"
+  },
+  {
+    "ID": "71803329",
+    "Download": 23.4,
+    "Upload": 13.32,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Cable Modem"
+  },
+  {
+    "ID": "58190795",
+    "Download": 141.2,
+    "Upload": 63.4,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "82060811",
+    "Download": 322.82,
+    "Upload": 70.68,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Satelite"
+  },
+  {
+    "ID": "62409784",
+    "Download": 393.61,
+    "Upload": 59.53,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "40450319",
+    "Download": 203.03,
+    "Upload": 99.66,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "13550004",
+    "Download": 467.97,
+    "Upload": 5.49,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "57379817",
+    "Download": 198.31,
+    "Upload": 99.02,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "86204803",
+    "Download": 214.86,
+    "Upload": 74.79,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "84331588",
+    "Download": 146.78,
+    "Upload": 44.24,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Cable Modem"
+  },
+  {
+    "ID": "74943208",
+    "Download": 307.82,
+    "Upload": 16.15,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Cable Modem"
+  },
+  {
+    "ID": "37000549",
+    "Download": 281.61,
+    "Upload": 45.44,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "51872486",
+    "Download": 24.78,
+    "Upload": 19.45,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "54781763",
+    "Download": 373.91,
+    "Upload": 43.23,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Satelite"
+  },
+  {
+    "ID": "34214474",
+    "Download": 107.21,
+    "Upload": 82.26,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Satelite"
+  },
+  {
+    "ID": "16715101",
+    "Download": 329.97,
+    "Upload": 5.99,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Radio"
+  },
+  {
+    "ID": "97948549",
+    "Download": 263.6,
+    "Upload": 33.21,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Satelite"
+  },
+  {
+    "ID": "05764512",
+    "Download": 318.55,
+    "Upload": 84.4,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Radio"
+  },
+  {
+    "ID": "38359503",
+    "Download": 310.69,
+    "Upload": 4.98,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "85908298",
+    "Download": 146.02,
+    "Upload": 79.4,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "44871483",
+    "Download": 115.78,
+    "Upload": 96.2,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Radio"
+  },
+  {
+    "ID": "18320896",
+    "Download": 271.81,
+    "Upload": 66.43,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Satelite"
+  },
+  {
+    "ID": "52611314",
+    "Download": 498.2,
+    "Upload": 1.86,
+    "Dependencia_Adm": "Federal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "50934848",
+    "Download": 167.81,
+    "Upload": 47.11,
+    "Dependencia_Adm": "Federal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Cable Modem"
+  },
+  {
+    "ID": "88578220",
+    "Download": 165.05,
+    "Upload": 71.94,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "86583456",
+    "Download": 22.49,
+    "Upload": 3.79,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "30637440",
+    "Download": 265.18,
+    "Upload": 84.7,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Cable Modem"
+  },
+  {
+    "ID": "60844773",
+    "Download": 300.42,
+    "Upload": 74.9,
+    "Dependencia_Adm": "Federal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Satelite"
+  },
+  {
+    "ID": "38686167",
+    "Download": 372.33,
+    "Upload": 27.14,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Cable Modem"
+  },
+  {
+    "ID": "81922882",
+    "Download": 476.65,
+    "Upload": 74.85,
+    "Dependencia_Adm": "Federal",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "87691183",
+    "Download": 247.36,
+    "Upload": 67.49,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "15887625",
+    "Download": 46.23,
+    "Upload": 18.03,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "35025689",
+    "Download": 133.66,
+    "Upload": 67.3,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "07311816",
+    "Download": 438.05,
+    "Upload": 93.11,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "73145833",
+    "Download": 426.77,
+    "Upload": 85.25,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "51673719",
+    "Download": 422.24,
+    "Upload": 78.33,
+    "Dependencia_Adm": "Federal",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "03083209",
+    "Download": 473.72,
+    "Upload": 68.9,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Radio"
+  },
+  {
+    "ID": "31540472",
+    "Download": 328.08,
+    "Upload": 59.55,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Cable Modem"
+  },
+  {
+    "ID": "06857899",
+    "Download": 246.64,
+    "Upload": 40.92,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "45547979",
+    "Download": 97.94,
+    "Upload": 13.71,
+    "Dependencia_Adm": "Federal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "33778503",
+    "Download": 357.95,
+    "Upload": 82.2,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "87537202",
+    "Download": 47.11,
+    "Upload": 71.96,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "58433675",
+    "Download": 233.29,
+    "Upload": 79.04,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Satelite"
+  },
+  {
+    "ID": "55191356",
+    "Download": 468.27,
+    "Upload": 2.81,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "16346854",
+    "Download": 423.42,
+    "Upload": 18.27,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Satelite"
+  },
+  {
+    "ID": "41444978",
+    "Download": 359.51,
+    "Upload": 60.27,
+    "Dependencia_Adm": "Federal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Cable Modem"
+  },
+  {
+    "ID": "12768355",
+    "Download": 66.28,
+    "Upload": 8.98,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "73491514",
+    "Download": 299.44,
+    "Upload": 71.02,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "94837724",
+    "Download": 494.98,
+    "Upload": 56.8,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Cable Modem"
+  },
+  {
+    "ID": "16898683",
+    "Download": 309.63,
+    "Upload": 29,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "17136215",
+    "Download": 140.17,
+    "Upload": 39.81,
+    "Dependencia_Adm": "Federal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "13463751",
+    "Download": 36.53,
+    "Upload": 67.6,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "82429457",
+    "Download": 40.79,
+    "Upload": 17.06,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Satelite"
+  },
+  {
+    "ID": "99050767",
+    "Download": 437.39,
+    "Upload": 11.74,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Radio"
+  },
+  {
+    "ID": "81360027",
+    "Download": 184.6,
+    "Upload": 53.81,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Cable Modem"
+  },
+  {
+    "ID": "80776737",
+    "Download": 473.08,
+    "Upload": 11.22,
+    "Dependencia_Adm": "Federal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "53578514",
+    "Download": 281.37,
+    "Upload": 10.25,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Radio"
+  },
+  {
+    "ID": "43196763",
+    "Download": 258.77,
+    "Upload": 64.35,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Satelite"
+  },
+  {
+    "ID": "88634015",
+    "Download": 474.15,
+    "Upload": 56.84,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "89307191",
+    "Download": 59.35,
+    "Upload": 31.25,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Radio"
+  },
+  {
+    "ID": "83264882",
+    "Download": 410.36,
+    "Upload": 27.33,
+    "Dependencia_Adm": "Federal",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Cable Modem"
+  },
+  {
+    "ID": "69927772",
+    "Download": 191.78,
+    "Upload": 63.62,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "91739044",
+    "Download": 280.54,
+    "Upload": 83.25,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "72583703",
+    "Download": 160.37,
+    "Upload": 6.08,
+    "Dependencia_Adm": "Federal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Satelite"
+  },
+  {
+    "ID": "12664402",
+    "Download": 45.76,
+    "Upload": 99.24,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "30127934",
+    "Download": 391.07,
+    "Upload": 3.19,
+    "Dependencia_Adm": "Federal",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Radio"
+  },
+  {
+    "ID": "37694541",
+    "Download": 100.65,
+    "Upload": 18.8,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "65386130",
+    "Download": 329.51,
+    "Upload": 33.54,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "84484809",
+    "Download": 220.4,
+    "Upload": 85.63,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "23236573",
+    "Download": 102.59,
+    "Upload": 19.25,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "30792019",
+    "Download": 497.36,
+    "Upload": 79.74,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Cable Modem"
+  },
+  {
+    "ID": "13094125",
+    "Download": 226.14,
+    "Upload": 86.03,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Radio"
+  },
+  {
+    "ID": "65052930",
+    "Download": 20.56,
+    "Upload": 47.73,
+    "Dependencia_Adm": "Federal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "91948971",
+    "Download": 468.82,
+    "Upload": 65.17,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "58481406",
+    "Download": 436.14,
+    "Upload": 33.18,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "74394629",
+    "Download": 302.62,
+    "Upload": 47.15,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Satelite"
+  },
+  {
+    "ID": "30697951",
+    "Download": 153.01,
+    "Upload": 94.3,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Satelite"
+  },
+  {
+    "ID": "40060315",
+    "Download": 405.63,
+    "Upload": 25.3,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "93718403",
+    "Download": 476.31,
+    "Upload": 3.22,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Satelite"
+  },
+  {
+    "ID": "92676386",
+    "Download": 426.77,
+    "Upload": 96.74,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "85901778",
+    "Download": 68.02,
+    "Upload": 26.74,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Cable Modem"
+  },
+  {
+    "ID": "31929134",
+    "Download": 484.6,
+    "Upload": 65.76,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "84458063",
+    "Download": 280.76,
+    "Upload": 8.46,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Satelite"
+  },
+  {
+    "ID": "98404232",
+    "Download": 7.66,
+    "Upload": 96.96,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "21032969",
+    "Download": 72.2,
+    "Upload": 91.94,
+    "Dependencia_Adm": "Federal",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Radio"
+  },
+  {
+    "ID": "56797465",
+    "Download": 7.89,
+    "Upload": 86.95,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Cable Modem"
+  },
+  {
+    "ID": "42062731",
+    "Download": 409.35,
+    "Upload": 43.01,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "46359592",
+    "Download": 392.17,
+    "Upload": 78.32,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "76758667",
+    "Download": 465.88,
+    "Upload": 30.69,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Cable Modem"
+  },
+  {
+    "ID": "66842642",
+    "Download": 187.5,
+    "Upload": 29.66,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "62230926",
+    "Download": 487.36,
+    "Upload": 99.93,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Cable Modem"
+  },
+  {
+    "ID": "63058268",
+    "Download": 412.75,
+    "Upload": 98.72,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "57478876",
+    "Download": 394.79,
+    "Upload": 48.52,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Satelite"
+  },
+  {
+    "ID": "38719959",
+    "Download": 313.3,
+    "Upload": 76.47,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "66490712",
+    "Download": 483.84,
+    "Upload": 33.53,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "10993825",
+    "Download": 252.46,
+    "Upload": 24.39,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Radio"
+  },
+  {
+    "ID": "27543996",
+    "Download": 447.38,
+    "Upload": 62.17,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Radio"
+  },
+  {
+    "ID": "01852025",
+    "Download": 203.52,
+    "Upload": 34.7,
+    "Dependencia_Adm": "Federal",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "82864070",
+    "Download": 226.53,
+    "Upload": 6.78,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Cable Modem"
+  },
+  {
+    "ID": "43578410",
+    "Download": 468.21,
+    "Upload": 98.21,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "02859232",
+    "Download": 343.25,
+    "Upload": 69.12,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "67576720",
+    "Download": 13.99,
+    "Upload": 86.36,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Satelite"
+  },
+  {
+    "ID": "36084064",
+    "Download": 86.94,
+    "Upload": 46.71,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "14211768",
+    "Download": 250.44,
+    "Upload": 13.48,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Satelite"
+  },
+  {
+    "ID": "44709315",
+    "Download": 216.13,
+    "Upload": 68.35,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Cable Modem"
+  },
+  {
+    "ID": "03618070",
+    "Download": 496.07,
+    "Upload": 2.97,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Cable Modem"
+  },
+  {
+    "ID": "93339092",
+    "Download": 445.03,
+    "Upload": 17.13,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "14961015",
+    "Download": 176.15,
+    "Upload": 89.69,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Satelite"
+  },
+  {
+    "ID": "18310878",
+    "Download": 354.39,
+    "Upload": 16.16,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Radio"
+  },
+  {
+    "ID": "05596594",
+    "Download": 454.82,
+    "Upload": 26.61,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "01090185",
+    "Download": 339.76,
+    "Upload": 25.16,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Cable Modem"
+  },
+  {
+    "ID": "10630629",
+    "Download": 321.35,
+    "Upload": 31.87,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Satelite"
+  },
+  {
+    "ID": "97836479",
+    "Download": 79.05,
+    "Upload": 22.9,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Satelite"
+  },
+  {
+    "ID": "79176336",
+    "Download": 302.56,
+    "Upload": 4.02,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "53725658",
+    "Download": 140.01,
+    "Upload": 90.4,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "23238691",
+    "Download": 231.64,
+    "Upload": 95.98,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Cable Modem"
+  },
+  {
+    "ID": "51168292",
+    "Download": 115.02,
+    "Upload": 94.34,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Cable Modem"
+  },
+  {
+    "ID": "26745884",
+    "Download": 131.19,
+    "Upload": 45.88,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "63759148",
+    "Download": 328.58,
+    "Upload": 44.33,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "87406549",
+    "Download": 238.64,
+    "Upload": 5.97,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Cable Modem"
+  },
+  {
+    "ID": "77135133",
+    "Download": 84.68,
+    "Upload": 36.62,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "09644125",
+    "Download": 139.68,
+    "Upload": 89.77,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "17599181",
+    "Download": 357.91,
+    "Upload": 37.74,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Satelite"
+  },
+  {
+    "ID": "44236727",
+    "Download": 308.61,
+    "Upload": 50.83,
+    "Dependencia_Adm": "Federal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "24347141",
+    "Download": 70.4,
+    "Upload": 53.23,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Cable Modem"
+  },
+  {
+    "ID": "70766669",
+    "Download": 39.65,
+    "Upload": 17.86,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "30854492",
+    "Download": 483.3,
+    "Upload": 54.32,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "44823112",
+    "Download": 187.29,
+    "Upload": 11.94,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "08226214",
+    "Download": 340.34,
+    "Upload": 61.8,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Cable Modem"
+  },
+  {
+    "ID": "77062864",
+    "Download": 423.75,
+    "Upload": 54.95,
+    "Dependencia_Adm": "Federal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Radio"
+  },
+  {
+    "ID": "71961175",
+    "Download": 124.62,
+    "Upload": 23.54,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "64653292",
+    "Download": 22.4,
+    "Upload": 90.25,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "19875599",
+    "Download": 299.64,
+    "Upload": 20.65,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "54564534",
+    "Download": 418.91,
+    "Upload": 42.76,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Satelite"
+  },
+  {
+    "ID": "72725546",
+    "Download": 184.31,
+    "Upload": 88.55,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "06508457",
+    "Download": 169.43,
+    "Upload": 24.58,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Satelite"
+  },
+  {
+    "ID": "68702814",
+    "Download": 324.14,
+    "Upload": 29.87,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "86263680",
+    "Download": 479.51,
+    "Upload": 87.76,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Cable Modem"
+  },
+  {
+    "ID": "35261129",
+    "Download": 300.12,
+    "Upload": 62.29,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Cable Modem"
+  },
+  {
+    "ID": "13810211",
+    "Download": 257.59,
+    "Upload": 85.87,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "60916415",
+    "Download": 81.86,
+    "Upload": 48.25,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Satelite"
+  },
+  {
+    "ID": "22413388",
+    "Download": 423.7,
+    "Upload": 89.53,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Radio"
+  },
+  {
+    "ID": "80666033",
+    "Download": 111.12,
+    "Upload": 17.74,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "86130333",
+    "Download": 336.59,
+    "Upload": 62.49,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "54957021",
+    "Download": 310.79,
+    "Upload": 72.55,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "02172285",
+    "Download": 29.75,
+    "Upload": 19.83,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Cable Modem"
+  },
+  {
+    "ID": "66851017",
+    "Download": 474.95,
+    "Upload": 57.3,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Satelite"
+  },
+  {
+    "ID": "69636338",
+    "Download": 293.36,
+    "Upload": 67.48,
+    "Dependencia_Adm": "Federal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "81174406",
+    "Download": 431.17,
+    "Upload": 92,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "62708304",
+    "Download": 261.64,
+    "Upload": 33.23,
+    "Dependencia_Adm": "Federal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "56213904",
+    "Download": 136.73,
+    "Upload": 55.13,
+    "Dependencia_Adm": "Federal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "00083618",
+    "Download": 300.7,
+    "Upload": 1.49,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Cable Modem"
+  },
+  {
+    "ID": "72191134",
+    "Download": 398.81,
+    "Upload": 37.64,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Radio"
+  },
+  {
+    "ID": "10191829",
+    "Download": 346.2,
+    "Upload": 64.12,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "14059194",
+    "Download": 242.91,
+    "Upload": 61.35,
+    "Dependencia_Adm": "Federal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "66771230",
+    "Download": 235.64,
+    "Upload": 82.01,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Radio"
+  },
+  {
+    "ID": "88456132",
+    "Download": 311.11,
+    "Upload": 12.67,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "49141296",
+    "Download": 227.39,
+    "Upload": 66.67,
+    "Dependencia_Adm": "Federal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "42569244",
+    "Download": 303.34,
+    "Upload": 20.96,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Satelite"
+  },
+  {
+    "ID": "46867186",
+    "Download": 7.28,
+    "Upload": 59.1,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "69950897",
+    "Download": 497.52,
+    "Upload": 69.81,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Satelite"
+  },
+  {
+    "ID": "10501284",
+    "Download": 206.2,
+    "Upload": 53.3,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Cable Modem"
+  },
+  {
+    "ID": "74587021",
+    "Download": 63.39,
+    "Upload": 37.58,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Fibra"
+  },
+  {
+    "ID": "72091822",
+    "Download": 435.42,
+    "Upload": 70.15,
+    "Dependencia_Adm": "Estadual",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Radio"
+  },
+  {
+    "ID": "43080556",
+    "Download": 272.4,
+    "Upload": 47.9,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Rural",
+    "Tipo_Tecnologia": "Cable Modem"
+  },
+  {
+    "ID": "28402279",
+    "Download": 441.39,
+    "Upload": 23.85,
+    "Dependencia_Adm": "Municipal",
+    "Localizacao": "Urbana",
+    "Tipo_Tecnologia": "Cable Modem"
+  }
+]
